@@ -1,0 +1,11 @@
+Bundle "scrooloose/syntastic"
+Bundle "kien/ctrlp.vim"
+Bundle 'rking/ag.vim'
+Bundle "Lokaltog/vim-easymotion"
+Bundle "tomtom/tcomment_vim"
+Bundle "jgdavey/vim-turbux"
+Bundle "christoomey/vim-tmux-runner"
+Bundle "tpope/vim-surround"
+Bundle "tpope/vim-fugitive"
+Bundle "scrooloose/nerdtree"  
+
